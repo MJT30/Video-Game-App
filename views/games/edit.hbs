@@ -1,0 +1,26 @@
+<link rel="stylesheet" type="text/css" href="style.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bangers&family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<h2>Continue...?</h2>
+<form action="/{{this.id}}/?_method=put" method="POST"></form>
+    <div class="form-group">
+    <label for="name">Name:</label>
+    <input id="name" type="text" name="name" class="form-control" />
+
+    <label for="img">Image:</label>
+    <input id="img" type="text" name="image" class="form-control" />
+
+    <label for="video">Video:</label>
+    <input id="video" type="text" name="video" class="form-control" />
+
+    <label for="rating">Rating:</label>
+    <input id="rating" type="text" name="rating" class="form-control" />
+
+    <label for="review">Review:</label>
+    <input id="review" type="text" name="review" class="form-control" />
+  </div>
+  <input type="submit" class="btn btn-primary" />
+  <a href="/" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Hades",
+        "image": "https://64.media.tumblr.com/6d31d374761fb5612575b1b22deb1c05/bcaab1d837d6f3f1-be/s540x810/1b68c8bb9e5b318ebe2a0189942c7426f0e98e85.gifv",
+        "video": "https://youtu.be/mD8x5xLHRho",
+        "rating": "4",
+        "review": "Hades is a game developed by supergiant games and was released in 2020. Released on both PC and the Nintendo Switch. In Hades, you play as Zagreus, son of The Lord of the underworld Hades. The goal of the game is to escape the underworld and join the Gods on top of Mount Olympus. The game will appeal to people who are into rogue-lites akin to dead cells but also those who are into Greek mythology. Over the few hours I played, I continuously ran into characters I have read about in various other forms of media such as The Hero Achilles, the damned Sysaphis, the musician Orpheus, and other gods and goddesses throughout your journey.   Hades is not like other games on the market right now, in terms of gameplay, the game is nothing short of outstanding. Each encounter with an enemy seems like you are fighting for your life. As items to heal yourself are far and few between. Once your health drops to zero, thats it, you are dead. But that does not mean it's game over, not at all. Hades is unique from any other game I have played, whereas when you “die” you start right back from the beginning, being scolded by your father and everything, and with each death, your enemies learn from you and grow stronger, and in return, so do you. So, you better watch yourself if you think that you will chip away their health the way you did the previous fight because you best believe they will have a counter-attack with your name on it. That is what makes the game fun and challenging, it evolves with you. It will make you spend hours and hours just to see how far you can get and what the enemies have in store for you When it comes to visuals and sound design, Hades is nothing short of phenomenal. The incredible music that plays as you quite literally fight for your life immerses you the player in the shoes of the protagonist Zagreus. The music changes depending on whom or what you are fighting, as it becomes increasingly violent, whether that be a grunt, a sub-boss, or a boss, the latter being the best of the music. The charming melodies that play when meeting a character from Greek mythology are calm and cool and offer a rest from the woes that lay ahead. In addition to songs from Orpheus & his muse the Nymph Eurydice.  When it comes to art design in Hades, it is one of the most visually stunning games I have seen in this current generation. The hand-drawn backgrounds blend seamlessly with the 3-D characters on screen. Each level of hades, that being the levels of the underworld, Tartarus, the lowest level of the underworld is painted a fiery green that shows the desperation of the tortured souls while the fields of asphodel are a hellish red with some of the most challenging enemies I have encountered in the game. While the fields of Elysium are like paradise, which gives our protagonist a glimpse of what the world above has in store.",
+        "platform": "PS5"
+       
+    },
+    {
+        "name": "CyberPunk 2077",
+        "image": "https://66.media.tumblr.com/05904cb7878a06b9e24260ab029455b6/tumblr_prvhi8uDYj1ut1d6co1_540.gif",
+        "video": "https://youtu.be/mFk_ivrgPCA",
+        "rating": "3",
+        "review": "TESTTESTTESTTESTTESTTESTTESTTESTTEST",
+        "platform": "https://cdn.icon-icons.com/icons2/844/PNG/512/Playstation_icon-icons.com_67099.png"
+        
+    },
+    {
+        "name": "Sifu",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AAWuVkz.img?h=127&w=300&m=6&q=60&o=f&l=f",
+        "video": "https://www.youtube.com/watch?v=MkCgETVco_k&t=2s",
+        "rating": "4",
+        "review": "TEST",
+        "platform": "PS5"
+        
+    },
+    {
+        "name": "Horizon Forbidden West",
+        "image": "https://media3.giphy.com/media/FhfB8k1OXgEXrYPVWE/giphy.gif",
+        "video": "https://www.youtube.com/watch?v=WpgXz5Z9v-U",
+        "rating": "5",
+        "review": "This game is really good",
+        "platform": "PS5"
+        
+    },
+    {
+        "name": "The Legend of Zelda Breath Of The Wild",
+        "image": "https://64.media.tumblr.com/1f989507d001d7772ca98e25a632faee/tumblr_ooexs8tMkr1u1ry24o1_500.gifv",
+        "video": "https://www.youtube.com/watch?v=zw47_q9wbBE",
+        "rating": "5",
+        "review": "REALLY GREAT",
+        "platform": "Nintendo Switch"
+        
+    },
+    {
+        "name": "Ratchet & Clank: Rift Apart",
+        "image": "https://i.pinimg.com/originals/b3/e6/6e/b3e66efe037c07a5d88d4ac06b6058d2.gif",
+        "video": "https://www.youtube.com/watch?v=9p_gg9UW9k4",
+        "rating": "4",
+        "review": "Pretty darn good",
+        "platform": "PS5"
+        
+    }
+]

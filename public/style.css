@@ -1,0 +1,46 @@
+
+
+body{
+    background-image: url('https://64.media.tumblr.com/ada103e509d373ebd31d86e96175192f/tumblr_po9rapKQko1t9q05y_1280.gifv');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+.name{
+    text-align: center;
+    font-family: 'Bangers';
+    color: coral;
+}
+
+.new{
+    font-family: 'Press Start 2P'
+}
+
+
+.videos{
+    display: block;
+    margin-left: 697px;
+    margin-right: 697px;
+    width: 25%;
+}  
+
+
+.reviews{
+    width: 100%;
+    color: coral;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid rgb(112, 35, 35);
+    border-radius: 4px;
+    background-color: transparent;
+    resize: both;
+    overflow: auto;
+}
+
+.rating{
+    font-family: 'Bangers';
+    color: coral;
+}
