@@ -117,45 +117,9 @@ app.listen(port, () => {
 
 
 
-// const mongoURI = "mongodb+srv://MylesT913:test@cluster0.yniju.mongodb.net/videogameapp?retryWrites=true&w=majority"
-// mongoose.connect(mongoURI, { useNewUrlParser: true, useUnifiedTopology: true}, () => {
-//     console.log('Connected to my database')
-// })
 
 
 
 
-// db.on('error', (err) => console.log(err.message + ' is Mongod not running?'))
-// db.on('connected', () => console.log('mongo connected: All systems go'))
-// db.on('disconnected', () => console.log('mongo disconnected'))
 
-
-
-// app.get('/', (req, res) => {
-//     VideoGame.find({}).then((game) => {
-//         res.render('games/index', {game})
-//     })
-// })
-
-
-// app.get('/new', (req, res) => {
-//     res.render('games/new')
-//     console.log('Adding game');
-// })
-
-
-// app.post('/', (req,res) => {
-//     VideoGame.create(req.body)
-//         .then((game) => {
-//             res.redirect('/')
-//             console.log('Game added');
-//         })
-// })
-
-// app.get('/:id', (req, res) => {
-//     VideoGame.findById(req.params.id)
-//         .then((game) => {
-//             res.render('games/view', {game})
-//         })
-// })
 

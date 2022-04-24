@@ -8,7 +8,7 @@ const gameSchema = new Schema(
         video: {type: String, required: true},
         rating: {type: Number, max: 5},
         review: {type: String, required: true},
-        // platform: {type: String, required: true}
+        
         
     }
 )
