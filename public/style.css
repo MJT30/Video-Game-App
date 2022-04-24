@@ -10,7 +10,7 @@ body{
 
 .name{
     text-align: center;
-    font-family: 'Bangers';
+    font-family: 'Press Start 2P';
     color: coral;
 }
 
@@ -30,6 +30,8 @@ body{
 .reviews{
     width: 100%;
     color: coral;
+    font-size: 25px;
+    font-family: 'Bangers';
     height: 150px;
     padding: 12px 20px;
     box-sizing: border-box;
@@ -43,4 +45,10 @@ body{
 .rating{
     font-family: 'Bangers';
     color: coral;
+}
+
+footer{
+    color: coral;
+    font-family: 'Press Start 2P'
+
 }
