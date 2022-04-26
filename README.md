@@ -24,3 +24,7 @@ its name, the rating, a small review & a Youtube video that showcases gameplay/t
 When the user adds a new game, they are taken to a form page. Here they will fill in the respestive form fields.  
 
 ![Screen Shot 2022-04-26 at 4 44 06 PM 2](https://user-images.githubusercontent.com/96808978/165411304-5c96ba10-39f7-4f10-b1ea-48a6f8ca61bf.png)
+
+
+
+This is the first version of the app. I will be updating in the future. And to whomever read this, I hope you enjoy and that you provide some feedback. Thank you!
