@@ -21,7 +21,7 @@ app.use(methodOverride('_method'))
 const VideoGame = require('./models/seed')
 
 
-app.get('/favicon.ico', (req, res) => {res.send("dummy")})
+
 
 
 //The Home page
@@ -35,6 +35,11 @@ app.get('/', (req, res) => {
 app.get('/new', (req, res) => {
     res.render('games/new')
     console.log('Adding game');
+})
+
+app.get('/edit', (req, res) => {
+    res.render('games/edit')
+    console.log(('editing current game'));
 })
 
 //Finds a game by it's Id
@@ -70,22 +75,10 @@ app.delete('/:id', (req, res) => {
 
 //Up dates data
 app.put('/:id', (req, res) => {
-    const id = req.params.id
-    console.log(id);
-    VideoGame.findByIdAndUpdate({_id: id},
-        {
-            name: req.body.name,
-            image: req.body.image,
-            video: req.body.video,
-            rating: req.body.rating,
-            review: req.body.review
-        },
-        {new: true}
-        )
-    .then((game) => {
-        res.render('games/edit',game)
-    })
+    VideoGame.findOneAndUpdate(req.body)
+    .then((game) => res.redirect('/'))
     .catch(console.error)
+    console.log('game updated');
 })
 
 
