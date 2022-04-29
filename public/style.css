@@ -19,12 +19,20 @@ body{
 }
 
 
-.videos{
+.youtube{
     display: block;
-    margin-left: 697px;
-    margin-right: 697px;
+    margin-left: 897px;
+    margin-right: 897px;
     width: 25%;
 }  
+
+.arrow{
+    font-family: 'Press Start 2P';
+    color: coral;
+    margin-left: 897px;
+    margin-right: 897px;
+}
+
 
 
 .reviews{
