@@ -21,6 +21,9 @@ app.use(methodOverride('_method'))
 const VideoGame = require('./models/seed')
 
 
+app.get('/favicon.ico', (req, res) => {res.send("dummy")})
+
+
 //The Home page
 app.get('/', (req, res) => {
     VideoGame.find({})
